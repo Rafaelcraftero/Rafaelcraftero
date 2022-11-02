@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Rafaelcraftero
-- 👀 I’m interested in videogame programming
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on multiplayer games
+- 🌱 I’m currently learning c# and .NET
 - 📫 How to reach me rafaelcraftero@gmail.com
 
 <!---
