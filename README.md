@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rafaelcraftero
-- 🌱 I’m currently learning c# and .NET
+- 🌱 I’m currently learning videogame development and .NET
 - 📫 How to reach me rafaelcraftero@gmail.com
 
 <!---
